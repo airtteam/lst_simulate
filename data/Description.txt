@@ -1,0 +1,3 @@
+The data set is provided by National Tibetan Plateau Data Center (http:data.tpdc.ac.cn).
+
+2012_02 refer to M1 station, 2012_03 refer to M2 station, and so on.
